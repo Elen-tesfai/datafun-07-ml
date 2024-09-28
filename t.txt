@@ -1,0 +1,10 @@
+[33m8789cc0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Updated elent_ml_v2.ipynb with step-by-step analysis and visualizations
+[33mba1e919[m Rename and update elent_ml.ipynb to elent_ml_v2.ipynb
+[33mc047674[m Rename elent_ml.ipynb to elent_ml_v2.ipynb
+[33m4766264[m Added data.csv and initial analysis
+[33ma76d3b2[m Update README.md with project title and details
+[33m8f5f779[m Refine requirements.txt to include only essential packages
+[33me8c9f3f[m Updated .gitignore to ignore unnecessary files
+[33m96e1e8e[m Updated README with activation instructions for Windows
+[33ma78ed6d[m Initial commit with README and .gitignore
+[33ma01c343[m Initial commit
