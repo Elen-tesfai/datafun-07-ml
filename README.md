@@ -1,8 +1,10 @@
-# Project 7: datafun-07-ml
+# Project 7: DataFun Machine Learning
+
+## Overview
+This project focuses on applying machine learning techniques to a dataset using Python. It involves data preprocessing, model training, and evaluation.
 
 ## How to Install and Run the Project
 
 ### Create a Virtual Environment
-To create a virtual environment named `.venv`, run:
 ```bash
-python3 -m venv .venv
+python -m venv .venv
