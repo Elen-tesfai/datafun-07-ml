@@ -33,7 +33,7 @@ Open elent_ml_v2.ipynb and run the cells sequentially.
 ```
 python main.py
 
-Usage
+## Usage
 This project allows you to analyze salary data based on age, visualize the distributions, and build a linear regression model to predict salaries.
 
 ## Project Structure
