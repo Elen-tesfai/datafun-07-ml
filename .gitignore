@@ -15,3 +15,6 @@ data/
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 nyc_temperature_analysis.py
+GlobalLandTemperaturesByCity.csv
+data.csv
+california_housing.csv
