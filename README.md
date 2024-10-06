@@ -27,10 +27,6 @@ We can run the analysis using the Jupyter Notebook or a Python script:
 --For Jupyter Notebook: Launch Jupyter Lab with:
 ```
 jupyter lab
-<<<<<<< HEAD
-=======
-Open elent_ml_v2.ipynb and run the cells sequentially.
->>>>>>> 8054626b2ae677d3c39394a909493cee651193b9
 
 --For Python Script: If applicable, run the script with:
 ```
@@ -40,20 +36,6 @@ python main.py
 This project allows you to analyze salary data based on age, visualize the distributions, and build a linear regression model to predict salaries.
 
 ## Project Structure
-<<<<<<< HEAD
-
-- `requirements.txt`: List of required packages for the project.
-
-=======
-- `data.csv`: The dataset used for analysis.
-- `elent_ml_v2.ipynb`: Jupyter notebook containing the data analysis and model training code.
-- `requirements.txt`: List of required packages for the project.
-
-## Example Outputs
-The notebook includes visualizations: 
-- Age Distribution Histogram
-- Regression Analysis Results
->>>>>>> 8054626b2ae677d3c39394a909493cee651193b9
 
 ## Contributing
 Feel free to contribute by opening issues or submitting pull requests.
@@ -62,11 +44,6 @@ Feel free to contribute by opening issues or submitting pull requests.
 This project is licensed under the MIT License.
 
 ## Contact Information
-<<<<<<< HEAD
-For questions, reach out to [Elen](https://github.com/Elen-Tesfai) 
-=======
-For questions, reach out to [Elen](https://github.com/Elen-Tesfai) at [ElenTes@hotmail.com].
->>>>>>> 8054626b2ae677d3c39394a909493cee651193b9
 
 ## Acknowledgments
 Special thanks to:  
