@@ -47,7 +47,7 @@ Feel free to contribute by opening issues or submitting pull requests.
 This project is licensed under the MIT License.
 
 ## Contact Information
-For questions, reach out to [Elen](https://github.com/Elen-Tesfai) at [ElenTes@hotmail.com].
+For questions, reach out to [Elen](https://github.com/Elen-Tesfai) 
 
 ## Acknowledgments
 Special thanks to:  
