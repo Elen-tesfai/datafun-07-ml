@@ -14,3 +14,5 @@ data/
 
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
+IntroToPython/
+ave_hi_nyc_jan_1895-2018_T.csv
