@@ -35,8 +35,9 @@ python main.py
 ## Usage
 This project allows you to analyze salary data based on age, visualize the distributions, and build a linear regression model to predict salaries.
 
-## Project Structure
-
+## Project Structure: 
+- `elent_ml.ipynb`: Data Analysis and Model Training
+- `elent_ml_bonus.ipynb`: California Housing Dataset Analysis
 ## Contributing
 Feel free to contribute by opening issues or submitting pull requests.
 
@@ -44,6 +45,7 @@ Feel free to contribute by opening issues or submitting pull requests.
 This project is licensed under the MIT License.
 
 ## Contact Information
+For any questions or issues, please refer to the address in the header or open an issue in this repository.
 
 ## Acknowledgments
 Special thanks to:  
