@@ -102,13 +102,13 @@ py -m pip install pyarrow
 We can run the analysis using the Jupyter Notebook or a Python script:
 
 --For Jupyter Notebook: Launch Jupyter Lab with:
-```
+```bash
 jupyter lab
-
---For Python Script: If applicable, run the script with:
 ```
+--For Python Script: If applicable, run the script with:
+```bash
 python main.py
-
+```
 ## Usage
 This project allows you to analyze salary data based on age, visualize the distributions, and build a linear regression model to predict salaries
 
