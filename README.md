@@ -10,6 +10,7 @@ This project focuses on applying machine learning techniques to a dataset using 
 To create a virtual environment, run:
 ```bash
 python -m venv .venv
+.venv\Scripts\Activate
 ```
 ### 2. Activate the Virtual Environment
 On Windows, activate it by running:
@@ -17,6 +18,7 @@ On Windows, activate it by running:
 .\.venv\Scripts\activate
 
 ### 3. Install Required Packages
+
 Install the necessary packages using:
 ```bash
 pip install -r requirements.txt
@@ -36,8 +38,8 @@ python main.py
 This project allows you to analyze salary data based on age, visualize the distributions, and build a linear regression model to predict salaries.
 
 ## Project Structure: 
-- `elent_ml.ipynb`: Data Analysis and Model Training
-- `elent_ml_bonus.ipynb`: California Housing Dataset Analysis
+- `elent_ml.ipynb`: Project 7 - Machine Learning: Salary Analysis and Prediction
+- `elent_ml_bonus.ipynb`: Project 7 - Machine Learning: California Housing Analysis
 ## Contributing
 Feel free to contribute by opening issues or submitting pull requests.
 
@@ -54,7 +56,7 @@ Special thanks to:
 - [Matplotlib](https://matplotlib.org/)
 
 ## Prerequisites
-- Python 3.x
+- Python 3.12 (64-bit)
 - Jupyter Lab
 
 # IntroToPython
