@@ -66,7 +66,7 @@ This project focuses on applying machine learning techniques to a dataset using 
 This project analyzes housing data in California and builds a model to predict housing prices based on various features.
 
 ### Project Structure
-- `elent_ml.ipynb`: Project 7 - Machine Learning: Salary Analysis and Prediction
+- `elen_ml.ipynb`: Project 7 - Machine Learning: Salary Analysis and Prediction
 - `elent_ml_bonus.ipynb`: Project 7 - Machine Learning: California Housing Analysis
 
 
